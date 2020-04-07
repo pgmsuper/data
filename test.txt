@@ -1,0 +1,15 @@
+ 
+
+socket
+
+
+bind
+
+while 
+	flag=0
+	if recive
+		flag = 1
+	
+
+	if flag
+		func(recive) 
